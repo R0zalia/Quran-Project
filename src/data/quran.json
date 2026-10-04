@@ -1,0 +1,1442 @@
+{
+  "title": "The Holy Quran",
+  "note": "Juz boundaries and ayah counts follow the Madani Mushaf (Hafs 'an 'Asim). Each juz lists the ids of the surahs in it; a surah's details are in the surahs table, once. A surah that runs across several juz (Al-Baqarah is in Juz 1, 2 and 3) is listed by every one of them.",
+  "juz": [
+    {
+      "juzNo": 1,
+      "name": "Alif Lam Meem",
+      "arabicName": "الم",
+      "surahs": [1, 2]
+    },
+    {
+      "juzNo": 2,
+      "name": "Sayaqool",
+      "arabicName": "سيقول",
+      "surahs": [2]
+    },
+    {
+      "juzNo": 3,
+      "name": "Tilkar Rusul",
+      "arabicName": "تلك الرسل",
+      "surahs": [2, 3]
+    },
+    {
+      "juzNo": 4,
+      "name": "Lan Tanaloo",
+      "arabicName": "لن تنالوا",
+      "surahs": [3, 4]
+    },
+    {
+      "juzNo": 5,
+      "name": "Wal Muhsanat",
+      "arabicName": "والمحصنات",
+      "surahs": [4]
+    },
+    {
+      "juzNo": 6,
+      "name": "La Yuhibbullah",
+      "arabicName": "لا يحب الله",
+      "surahs": [4, 5]
+    },
+    {
+      "juzNo": 7,
+      "name": "Wa Iza Sami'u",
+      "arabicName": "وإذا سمعوا",
+      "surahs": [5, 6]
+    },
+    {
+      "juzNo": 8,
+      "name": "Wa Lau Annana",
+      "arabicName": "ولو أننا",
+      "surahs": [6, 7]
+    },
+    {
+      "juzNo": 9,
+      "name": "Qalal Mala'u",
+      "arabicName": "قال الملأ",
+      "surahs": [7, 8]
+    },
+    {
+      "juzNo": 10,
+      "name": "Wa'lamu",
+      "arabicName": "واعلموا",
+      "surahs": [8, 9]
+    },
+    {
+      "juzNo": 11,
+      "name": "Ya'taziroon",
+      "arabicName": "يعتذرون",
+      "surahs": [9, 10, 11]
+    },
+    {
+      "juzNo": 12,
+      "name": "Wa Ma Min Dabbah",
+      "arabicName": "وما من دابة",
+      "surahs": [11, 12]
+    },
+    {
+      "juzNo": 13,
+      "name": "Wa Ma Ubarri'u",
+      "arabicName": "وما أبرئ",
+      "surahs": [12, 13, 14]
+    },
+    {
+      "juzNo": 14,
+      "name": "Rubama",
+      "arabicName": "ربما",
+      "surahs": [15, 16]
+    },
+    {
+      "juzNo": 15,
+      "name": "Subhanallazi",
+      "arabicName": "سبحان الذي",
+      "surahs": [17, 18]
+    },
+    {
+      "juzNo": 16,
+      "name": "Qal Alam",
+      "arabicName": "قال ألم",
+      "surahs": [18, 19, 20]
+    },
+    {
+      "juzNo": 17,
+      "name": "Iqtaraba",
+      "arabicName": "اقترب",
+      "surahs": [21, 22]
+    },
+    {
+      "juzNo": 18,
+      "name": "Qad Aflaha",
+      "arabicName": "قد أفلح",
+      "surahs": [23, 24, 25]
+    },
+    {
+      "juzNo": 19,
+      "name": "Wa Qalallazina",
+      "arabicName": "وقال الذين",
+      "surahs": [25, 26, 27]
+    },
+    {
+      "juzNo": 20,
+      "name": "Amman Khalaq",
+      "arabicName": "أمن خلق",
+      "surahs": [27, 28, 29]
+    },
+    {
+      "juzNo": 21,
+      "name": "Utlu Ma Oohiya",
+      "arabicName": "اتل ما أوحي",
+      "surahs": [29, 30, 31, 32, 33]
+    },
+    {
+      "juzNo": 22,
+      "name": "Wa Man Yaqnut",
+      "arabicName": "ومن يقنت",
+      "surahs": [33, 34, 35, 36]
+    },
+    {
+      "juzNo": 23,
+      "name": "Wa Mali",
+      "arabicName": "وما لي",
+      "surahs": [36, 37, 38, 39]
+    },
+    {
+      "juzNo": 24,
+      "name": "Faman Azlamu",
+      "arabicName": "فمن أظلم",
+      "surahs": [39, 40, 41]
+    },
+    {
+      "juzNo": 25,
+      "name": "Ilaihi Yuraddu",
+      "arabicName": "إليه يرد",
+      "surahs": [41, 42, 43, 44, 45]
+    },
+    {
+      "juzNo": 26,
+      "name": "Ha Meem",
+      "arabicName": "حم",
+      "surahs": [46, 47, 48, 49, 50, 51]
+    },
+    {
+      "juzNo": 27,
+      "name": "Qala Fama Khatbukum",
+      "arabicName": "قال فما خطبكم",
+      "surahs": [51, 52, 53, 54, 55, 56, 57]
+    },
+    {
+      "juzNo": 28,
+      "name": "Qad Sami'allah",
+      "arabicName": "قد سمع الله",
+      "surahs": [58, 59, 60, 61, 62, 63, 64, 65, 66]
+    },
+    {
+      "juzNo": 29,
+      "name": "Tabarakallazi",
+      "arabicName": "تبارك الذي",
+      "surahs": [67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77]
+    },
+    {
+      "juzNo": 30,
+      "name": "Amma",
+      "arabicName": "عم",
+      "surahs": [78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114]
+    }
+  ],
+  "surahs": [
+    {
+      "id": 1,
+      "name": "Al-Fatihah",
+      "arabicName": "الفاتحة",
+      "meaning": "The Opening",
+      "revelation": "Meccan",
+      "ayahCount": 7,
+      "titleImage": "surah-001.png",
+      "description": "The opening chapter of the Quran and a complete prayer in seven verses, recited in every unit of salah. It praises Allah, affirms that worship and help are sought from Him alone, and asks for guidance to the straight path. It is also called Umm al-Kitab (the Mother of the Book).",
+      "shaneNuzool": "Revealed in Makkah early in the Prophet's ﷺ mission. No single incident is reported as its cause: it was given to the believers as the prayer they would recite every day, and commentators link it to 15:87, which speaks of \"the seven oft-repeated verses\"."
+    },
+    {
+      "id": 2,
+      "name": "Al-Baqarah",
+      "arabicName": "البقرة",
+      "meaning": "The Cow",
+      "revelation": "Medinan",
+      "ayahCount": 286,
+      "titleImage": "surah-002.png",
+      "description": "The longest surah of the Quran, named after the cow the Children of Israel were commanded to slaughter (2:67-73). It covers faith and disbelief, the story of Adam, the history of Bani Israel, and the laws of the new community: prayer, fasting, Hajj, marriage, divorce, trade and the prohibition of riba. It contains Ayat al-Kursi (2:255).",
+      "shaneNuzool": "Revealed in Madinah over several years, beginning soon after the Hijrah, as the Muslims became a community with laws of their own. Many passages have their own occasions: the change of qiblah from Jerusalem to the Ka'bah (2:142-150) came about sixteen or seventeen months after the Hijrah, and verse 281 is reported to be among the very last verses revealed."
+    },
+    {
+      "id": 3,
+      "name": "Aal-e-Imran",
+      "arabicName": "آل عمران",
+      "meaning": "The Family of Imran",
+      "revelation": "Medinan",
+      "ayahCount": 200,
+      "titleImage": "surah-003.png",
+      "description": "Named after the family of Imran, the family of Maryam and Isa. It affirms the oneness of Allah, clarifies the truth about Isa, and draws lessons from the battles of Badr and Uhud about obedience, patience and trust in Allah.",
+      "shaneNuzool": "Revealed in Madinah. Commentators relate its opening part to the Christian delegation from Najran, who came to Madinah and debated with the Prophet ﷺ about Isa, which led to the invitation to mubahalah (3:61). Verses 121 onwards were revealed after the Battle of Uhud in 3 AH."
+    },
+    {
+      "id": 4,
+      "name": "An-Nisa",
+      "arabicName": "النساء",
+      "meaning": "The Women",
+      "revelation": "Medinan",
+      "ayahCount": 176,
+      "titleImage": "surah-004.png",
+      "description": "Deals at length with the rights of women and orphans, marriage, inheritance and family life, and with justice, the conduct of the hypocrites and relations with the People of the Book.",
+      "shaneNuzool": "Revealed in Madinah, largely after the Battle of Uhud, when many Muslims had been martyred and left widows and orphans behind. The inheritance verses (4:11-12) are reported to have been revealed when the widow of Sa'd ibn al-Rabi' came to the Prophet ﷺ because Sa'd's brother had taken all his wealth, leaving nothing for his daughters."
+    },
+    {
+      "id": 5,
+      "name": "Al-Ma'idah",
+      "arabicName": "المائدة",
+      "meaning": "The Table Spread",
+      "revelation": "Medinan",
+      "ayahCount": 120,
+      "titleImage": "surah-005.png",
+      "description": "Named after the table of food the disciples of Isa asked to be sent down (5:112-115). It stresses fulfilling covenants and sets out rulings on lawful food, wudu, Hajj, justice and relations with the People of the Book.",
+      "shaneNuzool": "One of the last surahs revealed in Madinah. Umar ibn al-Khattab reported that verse 3, \"This day I have perfected your religion for you\", was revealed on the Day of Arafah during the Farewell Hajj in 10 AH."
+    },
+    {
+      "id": 6,
+      "name": "Al-An'am",
+      "arabicName": "الأنعام",
+      "meaning": "The Cattle",
+      "revelation": "Meccan",
+      "ayahCount": 165,
+      "titleImage": "surah-006.png",
+      "description": "Named after the livestock that the pagan Arabs dedicated to their idols with rules of their own making (6:136-145). It builds the case for tawhid from creation and from Ibrahim's reasoning about the star, the moon and the sun.",
+      "shaneNuzool": "Revealed in Makkah in the later Makkan period, and many reports state it came down largely at once. It answers the Quraysh, who demanded miracles and made superstitious laws about their crops and cattle."
+    },
+    {
+      "id": 7,
+      "name": "Al-A'raf",
+      "arabicName": "الأعراف",
+      "meaning": "The Heights",
+      "revelation": "Meccan",
+      "ayahCount": 206,
+      "titleImage": "surah-007.png",
+      "description": "Named after the heights between Paradise and Hell (7:46-49). It narrates the stories of Adam, Nuh, Hud, Salih, Lut, Shu'ayb and, at length, Musa, showing how nations that rejected their messengers were destroyed.",
+      "shaneNuzool": "Revealed in Makkah in the later Makkan period, around the time of Al-An'am. Its histories of earlier nations served as a warning to the Quraysh, who were rejecting the Prophet ﷺ in the same way."
+    },
+    {
+      "id": 8,
+      "name": "Al-Anfal",
+      "arabicName": "الأنفال",
+      "meaning": "The Spoils of War",
+      "revelation": "Medinan",
+      "ayahCount": 75,
+      "titleImage": "surah-008.png",
+      "description": "Draws the lessons of the Battle of Badr: victory comes from Allah, and the believers must obey Allah and His Messenger, stay united and remain steadfast.",
+      "shaneNuzool": "Revealed in Madinah after the Battle of Badr in 2 AH, when the companions differed over how the spoils should be divided. Its first verse settled the matter by declaring that the spoils belong to Allah and His Messenger."
+    },
+    {
+      "id": 9,
+      "name": "At-Tawbah",
+      "arabicName": "التوبة",
+      "meaning": "The Repentance",
+      "revelation": "Medinan",
+      "ayahCount": 129,
+      "titleImage": "surah-009.png",
+      "description": "Also called Bara'ah. It is the only surah that does not begin with Bismillah. It deals with the treaty-breaking polytheists, the expedition to Tabuk, the excuses of the hypocrites and the acceptance of sincere repentance.",
+      "shaneNuzool": "Among the last surahs revealed in Madinah, in 9 AH. Much of it concerns the Tabuk expedition and those who stayed behind; verses 117-118 announce that Allah accepted the repentance of Ka'b ibn Malik and two other companions who had stayed behind without an excuse. Its opening proclamation was announced at the Hajj of 9 AH."
+    },
+    {
+      "id": 10,
+      "name": "Yunus",
+      "arabicName": "يونس",
+      "meaning": "Jonah",
+      "revelation": "Meccan",
+      "ayahCount": 109,
+      "titleImage": "surah-010.png",
+      "description": "Named after Prophet Yunus, whose people believed and were spared the punishment (10:98). It affirms revelation and the Hereafter and recounts the stories of Nuh and of Musa and Pharaoh.",
+      "shaneNuzool": "Revealed in Makkah, when the Quraysh found it strange that a man from among themselves had been made a messenger (10:2) and demanded a different Quran (10:15)."
+    },
+    {
+      "id": 11,
+      "name": "Hud",
+      "arabicName": "هود",
+      "meaning": "Hud",
+      "revelation": "Meccan",
+      "ayahCount": 123,
+      "titleImage": "surah-011.png",
+      "description": "Recounts the stories of Nuh, Hud, Salih, Ibrahim, Lut, Shu'ayb and Musa, and commands the Prophet ﷺ to remain steadfast as he was commanded (11:112).",
+      "shaneNuzool": "Revealed in Makkah during one of the hardest periods of the mission. The Prophet ﷺ is reported to have said that Hud and its sister surahs had turned his hair grey. Verse 12 comforts him against the pressure of the disbelievers' demands."
+    },
+    {
+      "id": 12,
+      "name": "Yusuf",
+      "arabicName": "يوسف",
+      "meaning": "Joseph",
+      "revelation": "Meccan",
+      "ayahCount": 111,
+      "titleImage": "surah-012.png",
+      "description": "Tells the whole story of Prophet Yusuf in a single narrative, which the Quran calls \"the best of stories\" (12:3): his brothers' jealousy, his trials in Egypt, his patience and his forgiveness.",
+      "shaneNuzool": "Revealed in Makkah in the late Makkan period. It is reported that the companions asked the Prophet ﷺ to narrate stories to them, and this surah was revealed; it came at a time when he, like Yusuf, was facing rejection by his own people."
+    },
+    {
+      "id": 13,
+      "name": "Ar-Ra'd",
+      "arabicName": "الرعد",
+      "meaning": "The Thunder",
+      "revelation": "Medinan",
+      "ayahCount": 43,
+      "titleImage": "surah-013.png",
+      "description": "Named after the thunder that glorifies Allah (13:13). It points to the signs of Allah in creation, affirms the truth of revelation and declares that hearts find rest in the remembrance of Allah (13:28).",
+      "shaneNuzool": "The Madani Mushaf labels it Medinan, though many scholars consider it Makkan in style. It answers the disbelievers who kept demanding a sign before they would believe (13:7, 13:27)."
+    },
+    {
+      "id": 14,
+      "name": "Ibrahim",
+      "arabicName": "إبراهيم",
+      "meaning": "Abraham",
+      "revelation": "Meccan",
+      "ayahCount": 52,
+      "titleImage": "surah-014.png",
+      "description": "Named after Prophet Ibrahim, whose prayer for Makkah and his descendants is quoted in verses 35-41. It gives the parable of a good word as a good tree with firm roots.",
+      "shaneNuzool": "Revealed in Makkah in the late Makkan period, when persecution had intensified. It reminds the Prophet ﷺ that earlier messengers were also threatened with expulsion by their people (14:13)."
+    },
+    {
+      "id": 15,
+      "name": "Al-Hijr",
+      "arabicName": "الحجر",
+      "meaning": "The Rocky Tract",
+      "revelation": "Meccan",
+      "ayahCount": 99,
+      "titleImage": "surah-015.png",
+      "description": "Named after the rocky dwellings of the people of Thamud (15:80). It contains Allah's promise to preserve the Quran (15:9) and the story of Iblis refusing to bow to Adam.",
+      "shaneNuzool": "Revealed in Makkah, when the Prophet ﷺ was being mocked and called insane (15:6). In it he was commanded to proclaim the message openly (15:94)."
+    },
+    {
+      "id": 16,
+      "name": "An-Nahl",
+      "arabicName": "النحل",
+      "meaning": "The Bee",
+      "revelation": "Meccan",
+      "ayahCount": 128,
+      "titleImage": "surah-016.png",
+      "description": "Named after the bee, whose honey is a healing for people (16:68-69). It lists the countless blessings of Allah and calls people to gratitude, justice and good conduct (16:90).",
+      "shaneNuzool": "Revealed in Makkah before the Hijrah. Verse 106, which excuses a believer forced to utter words of disbelief while his heart stays firm in faith, is reported to have been revealed about Ammar ibn Yasir, who was tortured by the Quraysh."
+    },
+    {
+      "id": 17,
+      "name": "Al-Isra",
+      "arabicName": "الإسراء",
+      "meaning": "The Night Journey",
+      "revelation": "Meccan",
+      "ayahCount": 111,
+      "titleImage": "surah-017.png",
+      "description": "Opens with the Night Journey of the Prophet ﷺ from Al-Masjid al-Haram to Al-Masjid al-Aqsa. It also sets out a list of moral commandments (17:23-39), including kindness to parents. It is also called Bani Isra'il.",
+      "shaneNuzool": "Revealed in Makkah, about a year before the Hijrah, after the Night Journey and Ascension. Verse 85 answers a question put to the Prophet ﷺ about the soul (ruh)."
+    },
+    {
+      "id": 18,
+      "name": "Al-Kahf",
+      "arabicName": "الكهف",
+      "meaning": "The Cave",
+      "revelation": "Meccan",
+      "ayahCount": 110,
+      "titleImage": "surah-018.png",
+      "description": "Contains four stories: the People of the Cave, the owner of the two gardens, Musa and Al-Khidr, and Dhul-Qarnayn. Each is a lesson about a trial: of faith, wealth, knowledge and power. Its recitation on Fridays is recommended.",
+      "shaneNuzool": "Revealed in Makkah. Ibn Ishaq reports that the Quraysh, advised by the rabbis of Madinah, asked the Prophet ﷺ about young men who disappeared long ago, a traveller who reached the east and the west, and the soul. Revelation paused for some days, and this surah then came with the answers, along with the instruction to say \"In sha Allah\" (18:23-24)."
+    },
+    {
+      "id": 19,
+      "name": "Maryam",
+      "arabicName": "مريم",
+      "meaning": "Mary",
+      "revelation": "Meccan",
+      "ayahCount": 98,
+      "titleImage": "surah-019.png",
+      "description": "Tells of the birth of Yahya to the aged Zakariyya and of Isa to the virgin Maryam, and of Ibrahim calling his father away from idols. It rejects the claim that Allah has taken a son.",
+      "shaneNuzool": "Revealed in Makkah before the migration to Abyssinia. When the Muslim emigrants were questioned before the Negus, Ja'far ibn Abi Talib recited the opening of this surah, and the king wept and refused to hand them over to the Quraysh."
+    },
+    {
+      "id": 20,
+      "name": "Ta-Ha",
+      "arabicName": "طه",
+      "meaning": "Ta-Ha",
+      "revelation": "Meccan",
+      "ayahCount": 135,
+      "titleImage": "surah-020.png",
+      "description": "Tells the story of Musa at length, from the burning bush to the golden calf, and reassures the Prophet ﷺ that the Quran was not sent down to cause him distress (20:2).",
+      "shaneNuzool": "Revealed in Makkah in the early period. It is reported that Umar ibn al-Khattab read the opening of this surah at his sister Fatimah's house, and it moved him to go to the Prophet ﷺ and accept Islam."
+    },
+    {
+      "id": 21,
+      "name": "Al-Anbiya",
+      "arabicName": "الأنبياء",
+      "meaning": "The Prophets",
+      "revelation": "Meccan",
+      "ayahCount": 112,
+      "titleImage": "surah-021.png",
+      "description": "Mentions sixteen prophets, showing that all of them brought the same message of tawhid, and warns that the reckoning is near while people turn away heedlessly (21:1).",
+      "shaneNuzool": "Revealed in Makkah. Abdullah ibn Mas'ud counted it among the earliest surahs he learned. It addressed the Quraysh, who dismissed the revelation as dreams and poetry (21:5)."
+    },
+    {
+      "id": 22,
+      "name": "Al-Hajj",
+      "arabicName": "الحج",
+      "meaning": "The Pilgrimage",
+      "revelation": "Medinan",
+      "ayahCount": 78,
+      "titleImage": "surah-022.png",
+      "description": "Named after the pilgrimage that Ibrahim was commanded to proclaim (22:27). It describes the rites of Hajj and the sacrifice, the terror of the Day of Judgement, and contains two verses of prostration.",
+      "shaneNuzool": "The Madani Mushaf labels it Medinan, though parts of it are considered Makkan. Verses 39-40 are reported to be the first verses granting the believers permission to fight, revealed about those who had been driven out of their homes unjustly."
+    },
+    {
+      "id": 23,
+      "name": "Al-Mu'minun",
+      "arabicName": "المؤمنون",
+      "meaning": "The Believers",
+      "revelation": "Meccan",
+      "ayahCount": 118,
+      "titleImage": "surah-023.png",
+      "description": "Opens with the qualities of the successful believers (23:1-11) and describes the stages of human creation, the stories of earlier prophets and the regret of the disbelievers at death.",
+      "shaneNuzool": "Revealed in Makkah. Commentators connect verses 75-77 with a famine that afflicted the Quraysh because of their stubborn rejection of the Prophet ﷺ."
+    },
+    {
+      "id": 24,
+      "name": "An-Nur",
+      "arabicName": "النور",
+      "meaning": "The Light",
+      "revelation": "Medinan",
+      "ayahCount": 64,
+      "titleImage": "surah-024.png",
+      "description": "Sets out laws of modesty and family life: the punishment for slander, seeking permission before entering homes, lowering the gaze and covering. It contains the Verse of Light (24:35).",
+      "shaneNuzool": "Revealed in Madinah around 5-6 AH. Verses 11-20 were revealed to declare the innocence of Aisha after the hypocrites spread a slander (al-Ifk) about her on the return from the expedition against Banu al-Mustaliq."
+    },
+    {
+      "id": 25,
+      "name": "Al-Furqan",
+      "arabicName": "الفرقان",
+      "meaning": "The Criterion",
+      "revelation": "Meccan",
+      "ayahCount": 77,
+      "titleImage": "surah-025.png",
+      "description": "Presents the Quran as the criterion between truth and falsehood and closes with the qualities of 'Ibad ar-Rahman, the servants of the Most Merciful (25:63-77).",
+      "shaneNuzool": "Revealed in Makkah. It answers the objections of the Quraysh that a messenger should not eat food and walk in the markets (25:7) and that the Quran should have been sent down all at once (25:32)."
+    },
+    {
+      "id": 26,
+      "name": "Ash-Shu'ara",
+      "arabicName": "الشعراء",
+      "meaning": "The Poets",
+      "revelation": "Meccan",
+      "ayahCount": 227,
+      "titleImage": "surah-026.png",
+      "description": "Tells the stories of Musa, Ibrahim, Nuh, Hud, Salih, Lut and Shu'ayb, and closes by distinguishing the Prophet ﷺ from the poets (26:224-227).",
+      "shaneNuzool": "Revealed in Makkah, when the Quraysh called the Prophet ﷺ a poet and a sorcerer. When verse 214, \"And warn your nearest kinsfolk\", was revealed, he climbed Mount Safa and called the clans of Quraysh to Islam."
+    },
+    {
+      "id": 27,
+      "name": "An-Naml",
+      "arabicName": "النمل",
+      "meaning": "The Ant",
+      "revelation": "Meccan",
+      "ayahCount": 93,
+      "titleImage": "surah-027.png",
+      "description": "Named after the valley of the ants in the story of Sulaiman (27:18). It also tells of the Queen of Sheba and of Musa, Salih and Lut.",
+      "shaneNuzool": "Revealed in Makkah. It continues the themes of Ash-Shu'ara and answers the disbelievers who denied the Hereafter. No specific incident is recorded as its cause."
+    },
+    {
+      "id": 28,
+      "name": "Al-Qasas",
+      "arabicName": "القصص",
+      "meaning": "The Stories",
+      "revelation": "Meccan",
+      "ayahCount": 88,
+      "titleImage": "surah-028.png",
+      "description": "Tells the story of Musa in detail: his birth, his upbringing in Pharaoh's palace, his flight to Madyan and his return as a messenger. It also recounts the arrogance of Qarun.",
+      "shaneNuzool": "Revealed in Makkah in the late Makkan period. Verse 56, \"You cannot guide whom you love\", is reported to have been revealed at the death of the Prophet's ﷺ uncle Abu Talib, who died without accepting Islam."
+    },
+    {
+      "id": 29,
+      "name": "Al-Ankabut",
+      "arabicName": "العنكبوت",
+      "meaning": "The Spider",
+      "revelation": "Meccan",
+      "ayahCount": 69,
+      "titleImage": "surah-029.png",
+      "description": "Named after the parable of the spider's web, the frailest of houses, for those who take protectors other than Allah (29:41). It teaches that faith will be tested (29:2).",
+      "shaneNuzool": "Revealed in Makkah, when the believers were being tortured for their faith. Verse 8 is reported to have been revealed about Sa'd ibn Abi Waqqas, whose mother vowed not to eat or drink until he left Islam."
+    },
+    {
+      "id": 30,
+      "name": "Ar-Rum",
+      "arabicName": "الروم",
+      "meaning": "The Romans",
+      "revelation": "Meccan",
+      "ayahCount": 60,
+      "titleImage": "surah-030.png",
+      "description": "Opens with a prophecy that the Romans, just defeated by the Persians, would be victorious within a few years (30:2-4), and points to the signs of Allah in creation, in marriage and in the variety of languages and colours.",
+      "shaneNuzool": "Revealed in Makkah around 615 CE, after the Persians defeated the Byzantines and the pagans of Makkah rejoiced. The surah foretold the Roman victory within \"a few years\", which came true, and Abu Bakr is reported to have made a wager on it with the Quraysh."
+    },
+    {
+      "id": 31,
+      "name": "Luqman",
+      "arabicName": "لقمان",
+      "meaning": "Luqman",
+      "revelation": "Meccan",
+      "ayahCount": 34,
+      "titleImage": "surah-031.png",
+      "description": "Named after the wise man Luqman, whose advice to his son (31:13-19) covers tawhid, kindness to parents, prayer, patience and humility.",
+      "shaneNuzool": "Revealed in Makkah. Commentators relate verse 6 to al-Nadr ibn al-Harith, who bought singing girls and Persian tales to distract people from listening to the Quran."
+    },
+    {
+      "id": 32,
+      "name": "As-Sajdah",
+      "arabicName": "السجدة",
+      "meaning": "The Prostration",
+      "revelation": "Meccan",
+      "ayahCount": 30,
+      "titleImage": "surah-032.png",
+      "description": "Named after the believers who fall down in prostration when reminded of Allah's verses (32:15). It speaks of creation, resurrection and the reward prepared for the righteous.",
+      "shaneNuzool": "Revealed in Makkah. No single incident is recorded as its cause; it answers doubts about revelation and resurrection. The Prophet ﷺ used to recite it in Fajr on Fridays."
+    },
+    {
+      "id": 33,
+      "name": "Al-Ahzab",
+      "arabicName": "الأحزاب",
+      "meaning": "The Combined Forces",
+      "revelation": "Medinan",
+      "ayahCount": 73,
+      "titleImage": "surah-033.png",
+      "description": "Named after the confederate tribes who besieged Madinah (33:9-27). It gives rulings on adoption, the household of the Prophet ﷺ, hijab, and declares him the Seal of the Prophets (33:40).",
+      "shaneNuzool": "Revealed in Madinah around 5 AH, at the time of the Battle of the Trench, when the Quraysh and their allies besieged the city. It also addressed the ending of adoption as blood kinship and the marriage of the Prophet ﷺ to Zaynab bint Jahsh (33:37)."
+    },
+    {
+      "id": 34,
+      "name": "Saba",
+      "arabicName": "سبأ",
+      "meaning": "Sheba",
+      "revelation": "Meccan",
+      "ayahCount": 54,
+      "titleImage": "surah-034.png",
+      "description": "Named after the people of Sheba, whose gardens were ruined by the flood of the dam (34:15-17) when they turned away in ingratitude. It also recalls the favours given to Dawud and Sulaiman.",
+      "shaneNuzool": "Revealed in Makkah, in response to the disbelievers who denied that the Hour would come (34:3). No specific incident is recorded."
+    },
+    {
+      "id": 35,
+      "name": "Fatir",
+      "arabicName": "فاطر",
+      "meaning": "The Originator",
+      "revelation": "Meccan",
+      "ayahCount": 45,
+      "titleImage": "surah-035.png",
+      "description": "Praises Allah as the Originator of the heavens and the earth, who made angels messengers with wings (35:1). It contrasts the powerless idols with the Creator.",
+      "shaneNuzool": "Revealed in Makkah. It refutes idolatry and comforts the Prophet ﷺ over his people's rejection (35:4, 35:8). No specific incident is recorded."
+    },
+    {
+      "id": 36,
+      "name": "Ya-Sin",
+      "arabicName": "يس",
+      "meaning": "Ya-Sin",
+      "revelation": "Meccan",
+      "ayahCount": 83,
+      "titleImage": "surah-036.png",
+      "description": "Affirms the prophethood of Muhammad ﷺ, tells of the messengers sent to a town, and presents signs in nature as proof of resurrection.",
+      "shaneNuzool": "Revealed in Makkah. Commentators connect verses 77-79 to a disbeliever of Quraysh who crumbled an old bone in his hand and asked who could give life to bones once they had decayed."
+    },
+    {
+      "id": 37,
+      "name": "As-Saffat",
+      "arabicName": "الصافات",
+      "meaning": "Those Ranged in Ranks",
+      "revelation": "Meccan",
+      "ayahCount": 182,
+      "titleImage": "surah-037.png",
+      "description": "Named after the angels standing in ranks. It recounts several prophets, including Ibrahim's readiness to sacrifice his son (37:102-107), and ends with peace upon the messengers.",
+      "shaneNuzool": "Revealed in Makkah. It refutes the pagan claim that the angels are daughters of Allah (37:149-157). No specific incident is recorded."
+    },
+    {
+      "id": 38,
+      "name": "Sad",
+      "arabicName": "ص",
+      "meaning": "Sad",
+      "revelation": "Meccan",
+      "ayahCount": 88,
+      "titleImage": "surah-038.png",
+      "description": "Tells of Dawud, Sulaiman and Ayyub and of Iblis refusing to bow to Adam out of arrogance.",
+      "shaneNuzool": "Revealed in Makkah. It is reported that the leaders of the Quraysh came to Abu Talib during his illness to complain about the Prophet ﷺ; he asked them to say one word, La ilaha illallah, and they exclaimed, \"Has he made the gods one God?\" (38:5)."
+    },
+    {
+      "id": 39,
+      "name": "Az-Zumar",
+      "arabicName": "الزمر",
+      "meaning": "The Groups",
+      "revelation": "Meccan",
+      "ayahCount": 75,
+      "titleImage": "surah-039.png",
+      "description": "Named after the groups driven to Hell and to Paradise on the Day of Judgement (39:71-73). It calls to sincere worship and holds out hope to every sinner: \"Do not despair of the mercy of Allah\" (39:53).",
+      "shaneNuzool": "Revealed in Makkah. Verse 53 is reported to have been revealed about people who had committed grave sins before Islam and asked whether they could still be forgiven."
+    },
+    {
+      "id": 40,
+      "name": "Ghafir",
+      "arabicName": "غافر",
+      "meaning": "The Forgiver",
+      "revelation": "Meccan",
+      "ayahCount": 85,
+      "titleImage": "surah-040.png",
+      "description": "Also called Al-Mu'min, after the believing man of Pharaoh's family who defended Musa (40:28). It praises Allah as the Forgiver of sin and Accepter of repentance.",
+      "shaneNuzool": "Revealed in Makkah, when the Quraysh were plotting against the Prophet ﷺ. When one of them tried to strangle him at the Ka'bah, Abu Bakr pushed the man away reciting verse 28: \"Would you kill a man because he says, My Lord is Allah?\""
+    },
+    {
+      "id": 41,
+      "name": "Fussilat",
+      "arabicName": "فصلت",
+      "meaning": "Explained in Detail",
+      "revelation": "Meccan",
+      "ayahCount": 54,
+      "titleImage": "surah-041.png",
+      "description": "Describes the Quran as a Book whose verses are explained in detail, speaks of the creation of the heavens and earth, and of the day when people's own skin will testify against them.",
+      "shaneNuzool": "Revealed in Makkah. Utbah ibn Rabi'ah was sent by the Quraysh to offer the Prophet ﷺ wealth, leadership or kingship if he gave up his mission. The Prophet ﷺ recited the opening of this surah, and Utbah returned telling the Quraysh to leave him alone."
+    },
+    {
+      "id": 42,
+      "name": "Ash-Shura",
+      "arabicName": "الشورى",
+      "meaning": "The Consultation",
+      "revelation": "Meccan",
+      "ayahCount": 53,
+      "titleImage": "surah-042.png",
+      "description": "Named after the believers who conduct their affairs by mutual consultation (42:38). It affirms that all prophets brought one religion and describes the qualities of a believing community.",
+      "shaneNuzool": "Revealed in Makkah, while the Muslims were still a small persecuted group, laying down the qualities of the society that was to come. No specific incident is recorded."
+    },
+    {
+      "id": 43,
+      "name": "Az-Zukhruf",
+      "arabicName": "الزخرف",
+      "meaning": "The Ornaments of Gold",
+      "revelation": "Meccan",
+      "ayahCount": 89,
+      "titleImage": "surah-043.png",
+      "description": "Named after the gold ornaments that the disbelievers valued (43:35). It exposes blind following of forefathers and tells of Ibrahim, Musa and Isa.",
+      "shaneNuzool": "Revealed in Makkah. It answers the Quraysh, who said the Quran should have been revealed to a great man of Makkah or Ta'if (43:31)."
+    },
+    {
+      "id": 44,
+      "name": "Ad-Dukhan",
+      "arabicName": "الدخان",
+      "meaning": "The Smoke",
+      "revelation": "Meccan",
+      "ayahCount": 59,
+      "titleImage": "surah-044.png",
+      "description": "Named after the smoke mentioned in verse 10. It states that the Quran was sent down in a blessed night and recalls the fate of Pharaoh's people.",
+      "shaneNuzool": "Revealed in Makkah. Abdullah ibn Mas'ud explained that when the Quraysh persisted in rejection, a severe famine struck them, so that the starving saw something like smoke between the sky and the earth; they asked for relief, and it was lifted."
+    },
+    {
+      "id": 45,
+      "name": "Al-Jathiyah",
+      "arabicName": "الجاثية",
+      "meaning": "The Kneeling",
+      "revelation": "Meccan",
+      "ayahCount": 37,
+      "titleImage": "surah-045.png",
+      "description": "Named after every nation kneeling on the Day of Judgement (45:28). It points to signs in creation and answers those who say only time destroys us (45:24).",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded; it answers the materialist denial of the Hereafter among the Quraysh."
+    },
+    {
+      "id": 46,
+      "name": "Al-Ahqaf",
+      "arabicName": "الأحقاف",
+      "meaning": "The Wind-Curved Sandhills",
+      "revelation": "Meccan",
+      "ayahCount": 35,
+      "titleImage": "surah-046.png",
+      "description": "Named after the sandhills where the people of 'Ad lived (46:21). It urges kindness to parents and tells of a group of jinn who listened to the Quran and believed (46:29-32).",
+      "shaneNuzool": "Revealed in Makkah in the late Makkan period. Commentators link verses 29-32 to the Prophet's ﷺ return journey from Ta'if, when a group of jinn heard him reciting the Quran."
+    },
+    {
+      "id": 47,
+      "name": "Muhammad",
+      "arabicName": "محمد",
+      "meaning": "Muhammad",
+      "revelation": "Medinan",
+      "ayahCount": 38,
+      "titleImage": "surah-047.png",
+      "description": "Named after the Prophet ﷺ (47:2). It is also called Al-Qital (Fighting), as it gives rulings on fighting and captives and exposes the hypocrites.",
+      "shaneNuzool": "Revealed in Madinah soon after the Hijrah, when the Muslims were facing the hostility of the Quraysh and needed guidance about fighting and prisoners of war (47:4)."
+    },
+    {
+      "id": 48,
+      "name": "Al-Fath",
+      "arabicName": "الفتح",
+      "meaning": "The Victory",
+      "revelation": "Medinan",
+      "ayahCount": 29,
+      "titleImage": "surah-048.png",
+      "description": "Calls the Treaty of Hudaybiyah \"a clear victory\" (48:1), praises the companions who pledged allegiance under the tree (48:18), and foretells the believers entering the Sacred Mosque.",
+      "shaneNuzool": "Revealed in 6 AH on the return journey from Hudaybiyah, when the treaty seemed to many a setback. The Prophet ﷺ said a surah had come to him that was dearer to him than everything the sun rises upon."
+    },
+    {
+      "id": 49,
+      "name": "Al-Hujurat",
+      "arabicName": "الحجرات",
+      "meaning": "The Rooms",
+      "revelation": "Medinan",
+      "ayahCount": 18,
+      "titleImage": "surah-049.png",
+      "description": "Teaches manners towards the Prophet ﷺ and between believers: verifying news, making peace, avoiding mockery, suspicion and backbiting. Verse 13 declares that the most honoured before Allah is the most righteous.",
+      "shaneNuzool": "Revealed in Madinah around 9 AH. Its opening verses are reported to have been revealed when a delegation of Banu Tamim called loudly to the Prophet ﷺ from outside his rooms, and when voices were raised in his presence."
+    },
+    {
+      "id": 50,
+      "name": "Qaf",
+      "arabicName": "ق",
+      "meaning": "Qaf",
+      "revelation": "Meccan",
+      "ayahCount": 45,
+      "titleImage": "surah-050.png",
+      "description": "Speaks of death, resurrection and judgement, and reminds that Allah is nearer to a person than his jugular vein (50:16). The Prophet ﷺ often recited it in the Friday sermon.",
+      "shaneNuzool": "Revealed in Makkah, in response to the disbelievers' astonishment that bodies turned to dust could be raised again (50:2-3)."
+    },
+    {
+      "id": 51,
+      "name": "Adh-Dhariyat",
+      "arabicName": "الذاريات",
+      "meaning": "The Winnowing Winds",
+      "revelation": "Meccan",
+      "ayahCount": 60,
+      "titleImage": "surah-051.png",
+      "description": "Opens with oaths by the winds, tells of Ibrahim's angelic guests, and states the purpose of creation: \"I did not create jinn and mankind except to worship Me\" (51:56).",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded; it answers those who denied resurrection."
+    },
+    {
+      "id": 52,
+      "name": "At-Tur",
+      "arabicName": "الطور",
+      "meaning": "The Mount",
+      "revelation": "Meccan",
+      "ayahCount": 49,
+      "titleImage": "surah-052.png",
+      "description": "Opens with an oath by Mount Sinai and presents a series of questions to the disbelievers about who created them and the heavens and the earth (52:35-36).",
+      "shaneNuzool": "Revealed in Makkah. Jubayr ibn Mut'im, before he accepted Islam, heard the Prophet ﷺ recite this surah in the Maghrib prayer and said that at verses 35-37 his heart almost flew."
+    },
+    {
+      "id": 53,
+      "name": "An-Najm",
+      "arabicName": "النجم",
+      "meaning": "The Star",
+      "revelation": "Meccan",
+      "ayahCount": 62,
+      "titleImage": "surah-053.png",
+      "description": "Affirms that the Prophet ﷺ speaks only revelation and describes his vision of Jibril at the Lote Tree of the utmost boundary (53:13-18). It ends with a verse of prostration.",
+      "shaneNuzool": "Revealed in Makkah. Abdullah ibn Mas'ud reported that it was the first surah with a prostration that the Prophet ﷺ recited publicly; at its end everyone present, believers and polytheists, prostrated, except one old man."
+    },
+    {
+      "id": 54,
+      "name": "Al-Qamar",
+      "arabicName": "القمر",
+      "meaning": "The Moon",
+      "revelation": "Meccan",
+      "ayahCount": 55,
+      "titleImage": "surah-054.png",
+      "description": "Opens with the splitting of the moon and repeats the refrain \"We have made the Quran easy to remember; is there anyone who will take heed?\" through the stories of destroyed nations.",
+      "shaneNuzool": "Revealed in Makkah after the Quraysh asked the Prophet ﷺ for a sign and the moon was seen split into two; they still turned away and called it magic (54:1-2)."
+    },
+    {
+      "id": 55,
+      "name": "Ar-Rahman",
+      "arabicName": "الرحمن",
+      "meaning": "The Most Merciful",
+      "revelation": "Medinan",
+      "ayahCount": 78,
+      "titleImage": "surah-055.png",
+      "description": "Lists the blessings of Allah upon mankind and jinn, repeating \"Which of the favours of your Lord will you deny?\" thirty-one times.",
+      "shaneNuzool": "The Madani Mushaf labels it Medinan, while many scholars hold it to be Makkan. It is reported that the Prophet ﷺ recited it to the jinn, who responded to its refrain better than the companions did."
+    },
+    {
+      "id": 56,
+      "name": "Al-Waqi'ah",
+      "arabicName": "الواقعة",
+      "meaning": "The Inevitable Event",
+      "revelation": "Meccan",
+      "ayahCount": 96,
+      "titleImage": "surah-056.png",
+      "description": "Describes the Day of Judgement and the three groups of mankind on that day: the foremost, the companions of the right and the companions of the left.",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded; it answers those who denied the Hereafter."
+    },
+    {
+      "id": 57,
+      "name": "Al-Hadid",
+      "arabicName": "الحديد",
+      "meaning": "The Iron",
+      "revelation": "Medinan",
+      "ayahCount": 29,
+      "titleImage": "surah-057.png",
+      "description": "Named after iron, sent down with great strength and benefit (57:25). It urges believers to spend in the way of Allah and warns against hearts hardening with time (57:16).",
+      "shaneNuzool": "Revealed in Madinah. It encouraged spending for the cause of Islam and taught that those who spent and fought before the Victory are higher in rank than those who did so later (57:10)."
+    },
+    {
+      "id": 58,
+      "name": "Al-Mujadilah",
+      "arabicName": "المجادلة",
+      "meaning": "The Pleading Woman",
+      "revelation": "Medinan",
+      "ayahCount": 22,
+      "titleImage": "surah-058.png",
+      "description": "Named after the woman who pleaded with the Prophet ﷺ about her husband. It lays down the expiation for zihar and teaches manners of gatherings and private conversation.",
+      "shaneNuzool": "Revealed in Madinah. Khawlah bint Tha'labah complained to the Prophet ﷺ that her husband had declared her like his mother's back (zihar), an old Arab form of separation. Allah heard her plea (58:1) and revealed the ruling and its expiation."
+    },
+    {
+      "id": 59,
+      "name": "Al-Hashr",
+      "arabicName": "الحشر",
+      "meaning": "The Exile",
+      "revelation": "Medinan",
+      "ayahCount": 24,
+      "titleImage": "surah-059.png",
+      "description": "Tells of the expulsion of the Jewish tribe of Banu an-Nadir from Madinah, praises the self-sacrifice of the Ansar, and closes with the beautiful names of Allah (59:22-24).",
+      "shaneNuzool": "Revealed in Madinah in 4 AH, after Banu an-Nadir broke their treaty and plotted against the Prophet ﷺ and were exiled. Ibn Abbas called it \"the surah of Banu an-Nadir\"."
+    },
+    {
+      "id": 60,
+      "name": "Al-Mumtahanah",
+      "arabicName": "الممتحنة",
+      "meaning": "The Woman to be Examined",
+      "revelation": "Medinan",
+      "ayahCount": 13,
+      "titleImage": "surah-060.png",
+      "description": "Named after the believing women who migrated from Makkah and were to be examined (60:10). It forbids taking the enemies of Islam as close allies while allowing kindness to those who do not fight the Muslims (60:8).",
+      "shaneNuzool": "Revealed in Madinah. Its opening was revealed about Hatib ibn Abi Balta'ah, who sent a secret letter warning the Quraysh of the Prophet's ﷺ march on Makkah; the letter was intercepted, and Hatib was forgiven for his past at Badr."
+    },
+    {
+      "id": 61,
+      "name": "As-Saff",
+      "arabicName": "الصف",
+      "meaning": "The Ranks",
+      "revelation": "Medinan",
+      "ayahCount": 14,
+      "titleImage": "surah-061.png",
+      "description": "Named after believers who strive in the cause of Allah in ranks like a solid structure (61:4). It rebukes saying what one does not do (61:2-3) and mentions Isa's glad tidings of a messenger named Ahmad (61:6).",
+      "shaneNuzool": "Revealed in Madinah. It is reported that some companions wished to know which deed was most beloved to Allah, and this surah was revealed."
+    },
+    {
+      "id": 62,
+      "name": "Al-Jumu'ah",
+      "arabicName": "الجمعة",
+      "meaning": "Friday",
+      "revelation": "Medinan",
+      "ayahCount": 11,
+      "titleImage": "surah-062.png",
+      "description": "Commands believers to hasten to the remembrance of Allah when the call for Friday prayer is made and to leave off trade until it is over (62:9-10).",
+      "shaneNuzool": "Revealed in Madinah. Verse 11 was revealed when a trade caravan arrived during the Friday sermon and most of the congregation went out to it, leaving only about twelve men with the Prophet ﷺ."
+    },
+    {
+      "id": 63,
+      "name": "Al-Munafiqun",
+      "arabicName": "المنافقون",
+      "meaning": "The Hypocrites",
+      "revelation": "Medinan",
+      "ayahCount": 11,
+      "titleImage": "surah-063.png",
+      "description": "Exposes the hypocrites, who swear oaths to hide their disbelief, and reminds believers not to let wealth and children distract them from remembering Allah.",
+      "shaneNuzool": "Revealed in Madinah on the return from the expedition against Banu al-Mustaliq. Abdullah ibn Ubayy said that when they returned to Madinah the more honourable would expel the lowly (63:8); Zayd ibn Arqam reported it, Ibn Ubayy denied it, and this surah confirmed Zayd."
+    },
+    {
+      "id": 64,
+      "name": "At-Taghabun",
+      "arabicName": "التغابن",
+      "meaning": "The Mutual Disillusion",
+      "revelation": "Medinan",
+      "ayahCount": 18,
+      "titleImage": "surah-064.png",
+      "description": "Named after the Day of Judgement as the day of loss and gain. It reminds that every hardship is by Allah's permission and that wealth and children are a test.",
+      "shaneNuzool": "Revealed in Madinah. Verse 14 is reported to have been revealed about men of Makkah who accepted Islam and wanted to migrate, but whose wives and children held them back."
+    },
+    {
+      "id": 65,
+      "name": "At-Talaq",
+      "arabicName": "الطلاق",
+      "meaning": "The Divorce",
+      "revelation": "Medinan",
+      "ayahCount": 12,
+      "titleImage": "surah-065.png",
+      "description": "Sets out the rules of divorce, the waiting period ('iddah) and maintenance, and promises that whoever fears Allah will be given a way out (65:2-3).",
+      "shaneNuzool": "Revealed in Madinah. Its rulings on divorcing at the right time are linked to Abdullah ibn Umar divorcing his wife during her menses, after which the Prophet ﷺ told him to take her back."
+    },
+    {
+      "id": 66,
+      "name": "At-Tahrim",
+      "arabicName": "التحريم",
+      "meaning": "The Prohibition",
+      "revelation": "Medinan",
+      "ayahCount": 12,
+      "titleImage": "surah-066.png",
+      "description": "Opens by addressing the Prophet ﷺ for forbidding himself something lawful, and gives the examples of the wives of Nuh and Lut and of Asiyah and Maryam.",
+      "shaneNuzool": "Revealed in Madinah. The Prophet ﷺ vowed not to drink honey again after two of his wives arranged to tell him it had left a smell; the first verse asked why he forbade what Allah had made lawful."
+    },
+    {
+      "id": 67,
+      "name": "Al-Mulk",
+      "arabicName": "الملك",
+      "meaning": "The Sovereignty",
+      "revelation": "Meccan",
+      "ayahCount": 30,
+      "titleImage": "surah-067.png",
+      "description": "Invites reflection on the perfection of creation and warns of the punishment of Hell. The Prophet ﷺ said it intercedes for the one who recites it.",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded; it calls the disbelievers to reflect on the dominion of Allah."
+    },
+    {
+      "id": 68,
+      "name": "Al-Qalam",
+      "arabicName": "القلم",
+      "meaning": "The Pen",
+      "revelation": "Meccan",
+      "ayahCount": 52,
+      "titleImage": "surah-068.png",
+      "description": "Opens with an oath by the pen, praises the exalted character of the Prophet ﷺ (68:4), and tells the parable of the owners of a garden who refused to give to the poor.",
+      "shaneNuzool": "Revealed in Makkah, among the earliest surahs, in response to the Quraysh calling the Prophet ﷺ insane (68:2)."
+    },
+    {
+      "id": 69,
+      "name": "Al-Haqqah",
+      "arabicName": "الحاقة",
+      "meaning": "The Reality",
+      "revelation": "Meccan",
+      "ayahCount": 52,
+      "titleImage": "surah-069.png",
+      "description": "Describes the Day of Judgement as the inevitable reality and the fate of those who receive their record in the right hand and in the left.",
+      "shaneNuzool": "Revealed in Makkah in the early period. It is reported that Umar ibn al-Khattab, before accepting Islam, heard the Prophet ﷺ reciting it at the Ka'bah; when he thought \"a poet\", verse 41 was recited, and when he thought \"a soothsayer\", verse 42."
+    },
+    {
+      "id": 70,
+      "name": "Al-Ma'arij",
+      "arabicName": "المعارج",
+      "meaning": "The Ascending Stairways",
+      "revelation": "Meccan",
+      "ayahCount": 44,
+      "titleImage": "surah-070.png",
+      "description": "Named after the stairways by which the angels ascend to Allah (70:3-4). It describes the anxious nature of man and the qualities of those who pray.",
+      "shaneNuzool": "Revealed in Makkah. Commentators relate its opening to a disbeliever who mockingly asked for the punishment to fall on them if the message was true."
+    },
+    {
+      "id": 71,
+      "name": "Nuh",
+      "arabicName": "نوح",
+      "meaning": "Noah",
+      "revelation": "Meccan",
+      "ayahCount": 28,
+      "titleImage": "surah-071.png",
+      "description": "Tells how Prophet Nuh called his people night and day for centuries, and how they persisted in idolatry until the flood.",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded; the story comforted the Prophet ﷺ as the Quraysh persisted in rejecting him."
+    },
+    {
+      "id": 72,
+      "name": "Al-Jinn",
+      "arabicName": "الجن",
+      "meaning": "The Jinn",
+      "revelation": "Meccan",
+      "ayahCount": 28,
+      "titleImage": "surah-072.png",
+      "description": "Tells what a group of jinn said after hearing the Quran: that it guides to the right way, and that they would never associate anyone with their Lord.",
+      "shaneNuzool": "Revealed in Makkah. Ibn Abbas reported that the Prophet ﷺ was leading his companions in Fajr on the way to the market of Ukaz when a group of jinn heard the Quran and believed, and this surah informed him of it."
+    },
+    {
+      "id": 73,
+      "name": "Al-Muzzammil",
+      "arabicName": "المزمل",
+      "meaning": "The Enshrouded One",
+      "revelation": "Meccan",
+      "ayahCount": 20,
+      "titleImage": "surah-073.png",
+      "description": "Addresses the Prophet ﷺ wrapped in his garments and commands him to stand in prayer at night and recite the Quran slowly and clearly (73:1-4).",
+      "shaneNuzool": "Revealed in Makkah, very early in the mission, to prepare the Prophet ﷺ for the weighty message ahead. Its last verse, which eased the night prayer, is held by many to have come later, some say in Madinah."
+    },
+    {
+      "id": 74,
+      "name": "Al-Muddaththir",
+      "arabicName": "المدثر",
+      "meaning": "The Cloaked One",
+      "revelation": "Meccan",
+      "ayahCount": 56,
+      "titleImage": "surah-074.png",
+      "description": "Commands the Prophet ﷺ to arise and warn, to magnify his Lord and purify himself (74:1-5), and describes the fate of the one who called the Quran magic.",
+      "shaneNuzool": "Revealed in Makkah, among the very first revelations. After a pause following the first revelation, the Prophet ﷺ saw Jibril again, hurried home and asked to be covered, and the opening verses were revealed."
+    },
+    {
+      "id": 75,
+      "name": "Al-Qiyamah",
+      "arabicName": "القيامة",
+      "meaning": "The Resurrection",
+      "revelation": "Meccan",
+      "ayahCount": 40,
+      "titleImage": "surah-075.png",
+      "description": "Swears by the Day of Resurrection and by the self-reproaching soul that people will be raised again, even to the tips of their fingers (75:4).",
+      "shaneNuzool": "Revealed in Makkah. Verses 16-19 were revealed when the Prophet ﷺ moved his tongue hastily to memorise the revelation as Jibril recited it; he was told not to hurry, for Allah would gather it in his heart."
+    },
+    {
+      "id": 76,
+      "name": "Al-Insan",
+      "arabicName": "الإنسان",
+      "meaning": "Man",
+      "revelation": "Medinan",
+      "ayahCount": 31,
+      "titleImage": "surah-076.png",
+      "description": "Also called Ad-Dahr. It describes the creation of man, his free choice, and the reward of the righteous who feed the poor, the orphan and the captive for the sake of Allah alone (76:8-9).",
+      "shaneNuzool": "The Madani Mushaf labels it Medinan, though scholars differ. No single authentic incident is agreed upon as its cause; it was a call to sincere charity seeking nothing but the pleasure of Allah."
+    },
+    {
+      "id": 77,
+      "name": "Al-Mursalat",
+      "arabicName": "المرسلات",
+      "meaning": "Those Sent Forth",
+      "revelation": "Meccan",
+      "ayahCount": 50,
+      "titleImage": "surah-077.png",
+      "description": "Repeats the warning \"Woe that Day to the deniers\" ten times while describing the Day of Judgement.",
+      "shaneNuzool": "Revealed in Makkah. Abdullah ibn Mas'ud reported that it was revealed to the Prophet ﷺ while they were in a cave at Mina, and they learned it fresh from his mouth."
+    },
+    {
+      "id": 78,
+      "name": "An-Naba",
+      "arabicName": "النبأ",
+      "meaning": "The Tidings",
+      "revelation": "Meccan",
+      "ayahCount": 40,
+      "titleImage": "surah-078.png",
+      "description": "Opens by asking what the disbelievers dispute about: the great news of resurrection. It points to the earth, mountains, sleep and rain as signs.",
+      "shaneNuzool": "Revealed in Makkah, when the Quraysh were arguing among themselves about the message and the resurrection it announced (78:1-3)."
+    },
+    {
+      "id": 79,
+      "name": "An-Nazi'at",
+      "arabicName": "النازعات",
+      "meaning": "Those Who Drag Forth",
+      "revelation": "Meccan",
+      "ayahCount": 46,
+      "titleImage": "surah-079.png",
+      "description": "Named after the angels who draw out souls at death. It tells the story of Musa and Pharaoh and answers the question of when the Hour will come (79:42).",
+      "shaneNuzool": "Revealed in Makkah, in response to the disbelievers who kept asking when the Hour would come."
+    },
+    {
+      "id": 80,
+      "name": "Abasa",
+      "arabicName": "عبس",
+      "meaning": "He Frowned",
+      "revelation": "Meccan",
+      "ayahCount": 42,
+      "titleImage": "surah-080.png",
+      "description": "Teaches that the message is for whoever seeks it, rich or poor, and reminds man of his humble origin and of the Day when a person will flee from his own family.",
+      "shaneNuzool": "Revealed in Makkah. Abdullah ibn Umm Maktum, a blind companion, came asking to be taught while the Prophet ﷺ was speaking to leaders of the Quraysh, hoping they would accept Islam. He frowned and turned away, and these verses were revealed; afterwards he always honoured Ibn Umm Maktum."
+    },
+    {
+      "id": 81,
+      "name": "At-Takwir",
+      "arabicName": "التكوير",
+      "meaning": "The Overthrowing",
+      "revelation": "Meccan",
+      "ayahCount": 29,
+      "titleImage": "surah-081.png",
+      "description": "Describes the upheavals of the Last Day: the sun folded up, the stars falling, and the girl buried alive being asked for what sin she was killed (81:8-9).",
+      "shaneNuzool": "Revealed in Makkah in the early period. No specific incident is recorded; it confronted the Quraysh with the reality of the Last Day and the evil of burying daughters alive."
+    },
+    {
+      "id": 82,
+      "name": "Al-Infitar",
+      "arabicName": "الانفطار",
+      "meaning": "The Cleaving",
+      "revelation": "Meccan",
+      "ayahCount": 19,
+      "titleImage": "surah-082.png",
+      "description": "Describes the sky splitting apart on the Last Day and asks, \"What has deceived you about your Lord, the Most Generous?\" (82:6).",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded."
+    },
+    {
+      "id": 83,
+      "name": "Al-Mutaffifin",
+      "arabicName": "المطففين",
+      "meaning": "Those Who Give Less",
+      "revelation": "Meccan",
+      "ayahCount": 36,
+      "titleImage": "surah-083.png",
+      "description": "Warns those who take full measure for themselves but give short measure to others, and contrasts the records of the wicked and the righteous.",
+      "shaneNuzool": "Classed as Makkan in the Madani Mushaf, and often described as the last Makkan or first Madinan surah. Ibn Abbas reported that when the Prophet ﷺ arrived in Madinah its people were among the worst in giving short measure, so this surah was revealed and they improved."
+    },
+    {
+      "id": 84,
+      "name": "Al-Inshiqaq",
+      "arabicName": "الانشقاق",
+      "meaning": "The Splitting Open",
+      "revelation": "Meccan",
+      "ayahCount": 25,
+      "titleImage": "surah-084.png",
+      "description": "Describes the sky splitting open and the earth throwing out what it contains, and tells man that he is toiling towards his Lord and will meet Him.",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded. Abu Hurairah reported that the Prophet ﷺ prostrated at verse 21."
+    },
+    {
+      "id": 85,
+      "name": "Al-Buruj",
+      "arabicName": "البروج",
+      "meaning": "The Constellations",
+      "revelation": "Meccan",
+      "ayahCount": 22,
+      "titleImage": "surah-085.png",
+      "description": "Recalls the People of the Ditch, who burned believers alive for their faith, and assures that Allah watches over the believers.",
+      "shaneNuzool": "Revealed in Makkah, when the Muslims were being tortured. The story of the believers who stayed firm in the fire strengthened the persecuted companions."
+    },
+    {
+      "id": 86,
+      "name": "At-Tariq",
+      "arabicName": "الطارق",
+      "meaning": "The Night Star",
+      "revelation": "Meccan",
+      "ayahCount": 17,
+      "titleImage": "surah-086.png",
+      "description": "Swears by the piercing star that every soul has a guardian over it, and reminds man of his creation from a drop of fluid.",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded."
+    },
+    {
+      "id": 87,
+      "name": "Al-A'la",
+      "arabicName": "الأعلى",
+      "meaning": "The Most High",
+      "revelation": "Meccan",
+      "ayahCount": 19,
+      "titleImage": "surah-087.png",
+      "description": "Commands glorifying the name of the Lord, the Most High, and promises the Prophet ﷺ that he will not forget the revelation. The Prophet ﷺ recited it in the Eid and Friday prayers.",
+      "shaneNuzool": "Revealed in Makkah in the early period. No specific incident is recorded."
+    },
+    {
+      "id": 88,
+      "name": "Al-Ghashiyah",
+      "arabicName": "الغاشية",
+      "meaning": "The Overwhelming",
+      "revelation": "Meccan",
+      "ayahCount": 26,
+      "titleImage": "surah-088.png",
+      "description": "Describes the overwhelming Day, the faces humbled and the faces joyful, and points to the camel, the sky, the mountains and the earth as signs.",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded."
+    },
+    {
+      "id": 89,
+      "name": "Al-Fajr",
+      "arabicName": "الفجر",
+      "meaning": "The Dawn",
+      "revelation": "Meccan",
+      "ayahCount": 30,
+      "titleImage": "surah-089.png",
+      "description": "Recalls the destruction of 'Ad, Thamud and Pharaoh, criticises love of wealth and neglect of orphans, and closes by addressing the soul at rest (89:27-30).",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded; it warned the wealthy of the Quraysh who neglected the orphan and the poor."
+    },
+    {
+      "id": 90,
+      "name": "Al-Balad",
+      "arabicName": "البلد",
+      "meaning": "The City",
+      "revelation": "Meccan",
+      "ayahCount": 20,
+      "titleImage": "surah-090.png",
+      "description": "Swears by the city of Makkah and describes the steep path of goodness: freeing a slave and feeding the orphan and the poor on a day of hunger.",
+      "shaneNuzool": "Revealed in Makkah, at a time when the Prophet ﷺ was being harmed in the very city that was meant to be a sanctuary (90:1-2)."
+    },
+    {
+      "id": 91,
+      "name": "Ash-Shams",
+      "arabicName": "الشمس",
+      "meaning": "The Sun",
+      "revelation": "Meccan",
+      "ayahCount": 15,
+      "titleImage": "surah-091.png",
+      "description": "Presents a series of oaths leading to the lesson that whoever purifies the soul succeeds and whoever corrupts it fails, and recounts the she-camel of Thamud.",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded."
+    },
+    {
+      "id": 92,
+      "name": "Al-Layl",
+      "arabicName": "الليل",
+      "meaning": "The Night",
+      "revelation": "Meccan",
+      "ayahCount": 21,
+      "titleImage": "surah-092.png",
+      "description": "Contrasts the one who gives and fears Allah with the one who is stingy and denies the good, and describes the reward of the one who gives seeking only Allah's pleasure.",
+      "shaneNuzool": "Revealed in Makkah. Commentators widely relate verses 17-21 to Abu Bakr, who spent his wealth freeing persecuted slaves such as Bilal, seeking only the pleasure of Allah."
+    },
+    {
+      "id": 93,
+      "name": "Ad-Duha",
+      "arabicName": "الضحى",
+      "meaning": "The Morning Hours",
+      "revelation": "Meccan",
+      "ayahCount": 11,
+      "titleImage": "surah-093.png",
+      "description": "Reassures the Prophet ﷺ that his Lord has neither forsaken him nor is displeased, and reminds him of how Allah sheltered and guided him.",
+      "shaneNuzool": "Revealed in Makkah after revelation paused for a while and a woman taunted the Prophet ﷺ that his Lord had abandoned him. The surah was revealed: \"Your Lord has not forsaken you, nor is He displeased\" (93:3)."
+    },
+    {
+      "id": 94,
+      "name": "Ash-Sharh",
+      "arabicName": "الشرح",
+      "meaning": "The Relief",
+      "revelation": "Meccan",
+      "ayahCount": 8,
+      "titleImage": "surah-094.png",
+      "description": "Reminds the Prophet ﷺ that his chest was expanded and his burden lifted, and promises twice that with hardship comes ease (94:5-6).",
+      "shaneNuzool": "Revealed in Makkah, soon after Ad-Duha, continuing its comfort to the Prophet ﷺ during the hardships of the early mission."
+    },
+    {
+      "id": 95,
+      "name": "At-Tin",
+      "arabicName": "التين",
+      "meaning": "The Fig",
+      "revelation": "Meccan",
+      "ayahCount": 8,
+      "titleImage": "surah-095.png",
+      "description": "Swears by the fig, the olive, Mount Sinai and the secure city that man was created in the best form, and that only those who believe and do good are not brought low.",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded."
+    },
+    {
+      "id": 96,
+      "name": "Al-Alaq",
+      "arabicName": "العلق",
+      "meaning": "The Clot",
+      "revelation": "Meccan",
+      "ayahCount": 19,
+      "titleImage": "surah-096.png",
+      "description": "Its first five verses, beginning \"Read in the name of your Lord who created\", were the very first revelation. The rest warns the one who tries to stop a servant from praying.",
+      "shaneNuzool": "The first five verses were revealed in the Cave of Hira, when Jibril came to the Prophet ﷺ and commanded him to read. Verses 6-19 came later, about Abu Jahl, who threatened the Prophet ﷺ for praying at the Ka'bah."
+    },
+    {
+      "id": 97,
+      "name": "Al-Qadr",
+      "arabicName": "القدر",
+      "meaning": "The Power",
+      "revelation": "Meccan",
+      "ayahCount": 5,
+      "titleImage": "surah-097.png",
+      "description": "Tells of the Night of Decree, in which the Quran was sent down, a night better than a thousand months, when the angels and the Spirit descend.",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded; it announces the honour of the night in which revelation began."
+    },
+    {
+      "id": 98,
+      "name": "Al-Bayyinah",
+      "arabicName": "البينة",
+      "meaning": "The Clear Proof",
+      "revelation": "Medinan",
+      "ayahCount": 8,
+      "titleImage": "surah-098.png",
+      "description": "States that the People of the Book and the polytheists would not leave their ways until clear proof came to them: a messenger reciting purified scriptures.",
+      "shaneNuzool": "Revealed in Madinah. No specific cause is recorded. The Prophet ﷺ was commanded to recite this surah to Ubayy ibn Ka'b, who wept on learning that Allah had mentioned him by name."
+    },
+    {
+      "id": 99,
+      "name": "Az-Zalzalah",
+      "arabicName": "الزلزلة",
+      "meaning": "The Earthquake",
+      "revelation": "Medinan",
+      "ayahCount": 8,
+      "titleImage": "surah-099.png",
+      "description": "Describes the final earthquake, when the earth will report what happened on it, and teaches that even an atom's weight of good or evil will be seen (99:7-8).",
+      "shaneNuzool": "The Madani Mushaf labels it Medinan, though some scholars consider it Makkan. No specific incident is recorded."
+    },
+    {
+      "id": 100,
+      "name": "Al-Adiyat",
+      "arabicName": "العاديات",
+      "meaning": "The Chargers",
+      "revelation": "Meccan",
+      "ayahCount": 11,
+      "titleImage": "surah-100.png",
+      "description": "Swears by the charging war horses that man is ungrateful to his Lord and intensely devoted to wealth.",
+      "shaneNuzool": "Revealed in Makkah. No single incident is agreed upon as its cause."
+    },
+    {
+      "id": 101,
+      "name": "Al-Qari'ah",
+      "arabicName": "القارعة",
+      "meaning": "The Calamity",
+      "revelation": "Meccan",
+      "ayahCount": 11,
+      "titleImage": "surah-101.png",
+      "description": "Describes the Striking Calamity, when people will be like scattered moths and mountains like carded wool, and the weighing of deeds.",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded."
+    },
+    {
+      "id": 102,
+      "name": "At-Takathur",
+      "arabicName": "التكاثر",
+      "meaning": "The Rivalry in Increase",
+      "revelation": "Meccan",
+      "ayahCount": 8,
+      "titleImage": "surah-102.png",
+      "description": "Warns that competing for more wealth and status distracts people until they reach the graves, and that they will be asked about every blessing.",
+      "shaneNuzool": "Revealed in Makkah. Some commentators relate it to clans of the Quraysh who boasted about their numbers, even counting their dead."
+    },
+    {
+      "id": 103,
+      "name": "Al-Asr",
+      "arabicName": "العصر",
+      "meaning": "The Time",
+      "revelation": "Meccan",
+      "ayahCount": 3,
+      "titleImage": "surah-103.png",
+      "description": "Swears by time that mankind is in loss, except those who believe, do good deeds, and urge one another to truth and patience. Imam Ash-Shafi'i said that if people reflected on this surah alone it would suffice them.",
+      "shaneNuzool": "Revealed in Makkah. No specific incident is recorded."
+    },
+    {
+      "id": 104,
+      "name": "Al-Humazah",
+      "arabicName": "الهمزة",
+      "meaning": "The Slanderer",
+      "revelation": "Meccan",
+      "ayahCount": 9,
+      "titleImage": "surah-104.png",
+      "description": "Condemns the one who backbites and slanders and hoards wealth, thinking it will make him immortal.",
+      "shaneNuzool": "Revealed in Makkah. Commentators name slanderers of the Prophet ﷺ among the Quraysh as the kind of people it describes."
+    },
+    {
+      "id": 105,
+      "name": "Al-Fil",
+      "arabicName": "الفيل",
+      "meaning": "The Elephant",
+      "revelation": "Meccan",
+      "ayahCount": 5,
+      "titleImage": "surah-105.png",
+      "description": "Recalls how Allah destroyed the army of the elephant that marched to demolish the Ka'bah, sending flocks of birds that pelted them with stones of baked clay.",
+      "shaneNuzool": "Revealed in Makkah. It reminded the Quraysh of the Year of the Elephant, around 570 CE, the year the Prophet ﷺ was born, when Abrahah's army was destroyed before the Ka'bah."
+    },
+    {
+      "id": 106,
+      "name": "Quraysh",
+      "arabicName": "قريش",
+      "meaning": "Quraysh",
+      "revelation": "Meccan",
+      "ayahCount": 4,
+      "titleImage": "surah-106.png",
+      "description": "Reminds the Quraysh of their secure winter and summer trade journeys and calls them to worship the Lord of the Ka'bah, who fed them and kept them safe.",
+      "shaneNuzool": "Revealed in Makkah. It follows on from Al-Fil: the protection of the Ka'bah gave the Quraysh the safety and prestige that made their caravans possible."
+    },
+    {
+      "id": 107,
+      "name": "Al-Ma'un",
+      "arabicName": "الماعون",
+      "meaning": "Small Kindnesses",
+      "revelation": "Meccan",
+      "ayahCount": 7,
+      "titleImage": "surah-107.png",
+      "description": "Describes the one who denies the Judgement: he repels the orphan, does not urge feeding the poor, is heedless of his prayers and refuses even small kindnesses.",
+      "shaneNuzool": "Revealed in Makkah according to the Madani Mushaf, though some scholars hold part of it to be Madinan. No specific incident is agreed upon."
+    },
+    {
+      "id": 108,
+      "name": "Al-Kawthar",
+      "arabicName": "الكوثر",
+      "meaning": "Abundance",
+      "revelation": "Meccan",
+      "ayahCount": 3,
+      "titleImage": "surah-108.png",
+      "description": "The shortest surah of the Quran. It tells the Prophet ﷺ that he has been given Al-Kawthar, a river in Paradise, commands prayer and sacrifice, and declares that his enemy is the one cut off.",
+      "shaneNuzool": "Revealed in Makkah after the Prophet's ﷺ sons died in infancy and his enemies mocked him as \"abtar\", cut off without descendants. Allah answered that it is the one who hates him who is cut off."
+    },
+    {
+      "id": 109,
+      "name": "Al-Kafirun",
+      "arabicName": "الكافرون",
+      "meaning": "The Disbelievers",
+      "revelation": "Meccan",
+      "ayahCount": 6,
+      "titleImage": "surah-109.png",
+      "description": "Declares complete separation between the worship of Allah and the worship of idols, ending with \"For you is your religion, and for me is mine\".",
+      "shaneNuzool": "Revealed in Makkah, when leaders of the Quraysh proposed a compromise: that the Prophet ﷺ worship their gods for a year and they worship Allah for a year. This surah rejected the offer."
+    },
+    {
+      "id": 110,
+      "name": "An-Nasr",
+      "arabicName": "النصر",
+      "meaning": "The Divine Support",
+      "revelation": "Medinan",
+      "ayahCount": 3,
+      "titleImage": "surah-110.png",
+      "description": "Announces the help of Allah and the victory, with people entering Islam in crowds, and commands glorifying and seeking forgiveness.",
+      "shaneNuzool": "Revealed in Madinah, among the last surahs revealed. Ibn Abbas understood it as a sign that the mission of the Prophet ﷺ was complete and that his death was near."
+    },
+    {
+      "id": 111,
+      "name": "Al-Masad",
+      "arabicName": "المسد",
+      "meaning": "The Palm Fibre",
+      "revelation": "Meccan",
+      "ayahCount": 5,
+      "titleImage": "surah-111.png",
+      "description": "Declares the ruin of Abu Lahab, the Prophet's ﷺ uncle and enemy, and of his wife, who will carry firewood with a rope of palm fibre around her neck.",
+      "shaneNuzool": "Revealed in Makkah. When the Prophet ﷺ called the clans of Quraysh from Mount Safa, Abu Lahab said, \"May you perish! Is it for this you gathered us?\", and this surah was revealed."
+    },
+    {
+      "id": 112,
+      "name": "Al-Ikhlas",
+      "arabicName": "الإخلاص",
+      "meaning": "Sincerity",
+      "revelation": "Meccan",
+      "ayahCount": 4,
+      "titleImage": "surah-112.png",
+      "description": "A declaration of pure tawhid: Allah is One, the Eternal Refuge, who neither begets nor is born, and there is none comparable to Him. The Prophet ﷺ said it is equal to a third of the Quran.",
+      "shaneNuzool": "Revealed in Makkah. It is reported that the polytheists asked the Prophet ﷺ to describe the lineage of his Lord, and this surah was revealed in reply."
+    },
+    {
+      "id": 113,
+      "name": "Al-Falaq",
+      "arabicName": "الفلق",
+      "meaning": "The Daybreak",
+      "revelation": "Meccan",
+      "ayahCount": 5,
+      "titleImage": "surah-113.png",
+      "description": "Teaches seeking refuge in the Lord of the daybreak from the evil of creation, of darkness, of those who blow on knots and of the envier.",
+      "shaneNuzool": "Classed as Makkan in the Madani Mushaf, though some scholars consider it Madinan. Commentators relate that it and An-Nas were revealed together when the Prophet ﷺ was affected by sorcery in Madinah, and he recited both for protection every night."
+    },
+    {
+      "id": 114,
+      "name": "An-Nas",
+      "arabicName": "الناس",
+      "meaning": "Mankind",
+      "revelation": "Meccan",
+      "ayahCount": 6,
+      "titleImage": "surah-114.png",
+      "description": "The final surah of the Quran. It teaches seeking refuge in the Lord, King and God of mankind from the whispering of the one who withdraws, whether among jinn or men.",
+      "shaneNuzool": "Classed as Makkan in the Madani Mushaf, though some scholars consider it Madinan. It was revealed together with Al-Falaq, and the two are known as Al-Mu'awwidhatayn, the two surahs of seeking refuge."
+    }
+  ]
+}

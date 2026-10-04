@@ -1,0 +1,252 @@
+{
+  "title": "The Solar System",
+  "note": "Sizes, distances and periods are NASA's rounded figures. Moon counts are the confirmed moons NASA listed in early 2025 and grow as new ones are found. A mission lists only the planets it reached, with the year it arrived.",
+  "missions": [
+    {
+      "missionId": "mariner-10",
+      "name": "Mariner 10",
+      "agency": "NASA",
+      "launchYear": 1973,
+      "visits": [
+        { "planetId": 2, "year": 1974, "kind": "Flyby" },
+        { "planetId": 1, "year": 1974, "kind": "Flyby" }
+      ]
+    },
+    {
+      "missionId": "venera-7",
+      "name": "Venera 7",
+      "agency": "Soviet Union",
+      "launchYear": 1970,
+      "visits": [
+        { "planetId": 2, "year": 1970, "kind": "Lander" }
+      ]
+    },
+    {
+      "missionId": "pioneer-10",
+      "name": "Pioneer 10",
+      "agency": "NASA",
+      "launchYear": 1972,
+      "visits": [
+        { "planetId": 5, "year": 1973, "kind": "Flyby" }
+      ]
+    },
+    {
+      "missionId": "viking-1",
+      "name": "Viking 1",
+      "agency": "NASA",
+      "launchYear": 1975,
+      "visits": [
+        { "planetId": 4, "year": 1976, "kind": "Orbiter and lander" }
+      ]
+    },
+    {
+      "missionId": "voyager-1",
+      "name": "Voyager 1",
+      "agency": "NASA",
+      "launchYear": 1977,
+      "visits": [
+        { "planetId": 5, "year": 1979, "kind": "Flyby" },
+        { "planetId": 6, "year": 1980, "kind": "Flyby" }
+      ]
+    },
+    {
+      "missionId": "voyager-2",
+      "name": "Voyager 2",
+      "agency": "NASA",
+      "launchYear": 1977,
+      "visits": [
+        { "planetId": 5, "year": 1979, "kind": "Flyby" },
+        { "planetId": 6, "year": 1981, "kind": "Flyby" },
+        { "planetId": 7, "year": 1986, "kind": "Flyby" },
+        { "planetId": 8, "year": 1989, "kind": "Flyby" }
+      ]
+    },
+    {
+      "missionId": "galileo",
+      "name": "Galileo",
+      "agency": "NASA",
+      "launchYear": 1989,
+      "visits": [
+        { "planetId": 2, "year": 1990, "kind": "Flyby" },
+        { "planetId": 3, "year": 1990, "kind": "Flyby" },
+        { "planetId": 5, "year": 1995, "kind": "Orbiter" }
+      ]
+    },
+    {
+      "missionId": "cassini",
+      "name": "Cassini-Huygens",
+      "agency": "NASA / ESA / ASI",
+      "launchYear": 1997,
+      "visits": [
+        { "planetId": 2, "year": 1998, "kind": "Flyby" },
+        { "planetId": 3, "year": 1999, "kind": "Flyby" },
+        { "planetId": 5, "year": 2000, "kind": "Flyby" },
+        { "planetId": 6, "year": 2004, "kind": "Orbiter" }
+      ]
+    },
+    {
+      "missionId": "messenger",
+      "name": "MESSENGER",
+      "agency": "NASA",
+      "launchYear": 2004,
+      "visits": [
+        { "planetId": 2, "year": 2006, "kind": "Flyby" },
+        { "planetId": 1, "year": 2011, "kind": "Orbiter" }
+      ]
+    },
+    {
+      "missionId": "juno",
+      "name": "Juno",
+      "agency": "NASA",
+      "launchYear": 2011,
+      "visits": [
+        { "planetId": 3, "year": 2013, "kind": "Flyby" },
+        { "planetId": 5, "year": 2016, "kind": "Orbiter" }
+      ]
+    },
+    {
+      "missionId": "mangalyaan",
+      "name": "Mangalyaan",
+      "agency": "ISRO",
+      "launchYear": 2013,
+      "visits": [
+        { "planetId": 4, "year": 2014, "kind": "Orbiter" }
+      ]
+    },
+    {
+      "missionId": "bepicolombo",
+      "name": "BepiColombo",
+      "agency": "ESA / JAXA",
+      "launchYear": 2018,
+      "visits": [
+        { "planetId": 3, "year": 2020, "kind": "Flyby" },
+        { "planetId": 2, "year": 2020, "kind": "Flyby" },
+        { "planetId": 1, "year": 2021, "kind": "Flyby" }
+      ]
+    },
+    {
+      "missionId": "hope",
+      "name": "Hope",
+      "agency": "UAE",
+      "launchYear": 2020,
+      "visits": [
+        { "planetId": 4, "year": 2021, "kind": "Orbiter" }
+      ]
+    },
+    {
+      "missionId": "perseverance",
+      "name": "Perseverance",
+      "agency": "NASA",
+      "launchYear": 2020,
+      "visits": [
+        { "planetId": 4, "year": 2021, "kind": "Rover" }
+      ]
+    }
+  ],
+  "planets": [
+    {
+      "id": 1,
+      "name": "Mercury",
+      "type": "Terrestrial",
+      "namedAfter": "The swift messenger of the Roman gods",
+      "moons": 0,
+      "diameterKm": 4879,
+      "distanceMillionKm": 57.9,
+      "dayHours": 4222.6,
+      "yearDays": 88,
+      "imageUrl": "https://images-assets.nasa.gov/image/PIA15160/PIA15160~medium.jpg",
+      "description": "The smallest planet and the closest to the Sun. It has almost no atmosphere to hold heat, so its surface swings from about 430 °C in the day to about -180 °C at night. Its grey, cratered face looks much like our Moon."
+    },
+    {
+      "id": 2,
+      "name": "Venus",
+      "type": "Terrestrial",
+      "namedAfter": "The Roman goddess of love and beauty",
+      "moons": 0,
+      "diameterKm": 12104,
+      "distanceMillionKm": 108.2,
+      "dayHours": 2802,
+      "yearDays": 224.7,
+      "imageUrl": "https://images-assets.nasa.gov/image/PIA00271/PIA00271~medium.jpg",
+      "description": "Nearly the same size as Earth, but wrapped in thick clouds of sulphuric acid over an atmosphere of carbon dioxide. The trapped heat makes it the hottest planet, hotter than Mercury. It spins backwards compared with most planets."
+    },
+    {
+      "id": 3,
+      "name": "Earth",
+      "type": "Terrestrial",
+      "namedAfter": "An Old English word for the ground",
+      "moons": 1,
+      "diameterKm": 12756,
+      "distanceMillionKm": 149.6,
+      "dayHours": 24,
+      "yearDays": 365.2,
+      "imageUrl": "https://images-assets.nasa.gov/image/as17-148-22727/as17-148-22727~medium.jpg",
+      "description": "The only place known to hold life, and the only planet with liquid water on its surface. About 71 percent of it is ocean. Its air of nitrogen and oxygen, and its magnetic field, shield the surface from much of the Sun's radiation."
+    },
+    {
+      "id": 4,
+      "name": "Mars",
+      "type": "Terrestrial",
+      "namedAfter": "The Roman god of war",
+      "moons": 2,
+      "diameterKm": 6792,
+      "distanceMillionKm": 228,
+      "dayHours": 24.7,
+      "yearDays": 687,
+      "imageUrl": "https://images-assets.nasa.gov/image/PIA04591/PIA04591~orig.jpg",
+      "description": "A cold desert world coloured red by iron oxide dust. It holds Olympus Mons, the tallest volcano in the Solar System, and dry river valleys that show water once flowed there. Its two small moons are Phobos and Deimos."
+    },
+    {
+      "id": 5,
+      "name": "Jupiter",
+      "type": "Gas giant",
+      "namedAfter": "The king of the Roman gods",
+      "moons": 95,
+      "diameterKm": 142984,
+      "distanceMillionKm": 778.5,
+      "dayHours": 9.9,
+      "yearDays": 4331,
+      "imageUrl": "https://images-assets.nasa.gov/image/PIA04866/PIA04866~medium.jpg",
+      "description": "The largest planet, more than twice as massive as all the others together. Its Great Red Spot is a storm wider than Earth that has raged for centuries. Its moon Ganymede is larger than the planet Mercury."
+    },
+    {
+      "id": 6,
+      "name": "Saturn",
+      "type": "Gas giant",
+      "namedAfter": "The Roman god of farming",
+      "moons": 274,
+      "diameterKm": 120536,
+      "distanceMillionKm": 1432,
+      "dayHours": 10.7,
+      "yearDays": 10747,
+      "imageUrl": "https://images-assets.nasa.gov/image/PIA11141/PIA11141~medium.jpg",
+      "description": "Famous for its bright rings of ice and rock, which are hundreds of thousands of kilometres wide but mostly only about ten metres thick. It is the least dense planet. Its moon Titan has a thick atmosphere and lakes of liquid methane."
+    },
+    {
+      "id": 7,
+      "name": "Uranus",
+      "type": "Ice giant",
+      "namedAfter": "The Greek god of the sky",
+      "moons": 28,
+      "diameterKm": 51118,
+      "distanceMillionKm": 2867,
+      "dayHours": 17.2,
+      "yearDays": 30589,
+      "imageUrl": "https://images-assets.nasa.gov/image/PIA18182/PIA18182~medium.jpg",
+      "description": "An ice giant tipped over on its side, so each pole spends about 42 years in sunlight and then 42 in darkness. Methane in its atmosphere gives it a pale blue-green colour. It was the first planet found with a telescope, in 1781."
+    },
+    {
+      "id": 8,
+      "name": "Neptune",
+      "type": "Ice giant",
+      "namedAfter": "The Roman god of the sea",
+      "moons": 16,
+      "diameterKm": 49528,
+      "distanceMillionKm": 4515,
+      "dayHours": 16.1,
+      "yearDays": 59800,
+      "imageUrl": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
+      "description": "The farthest planet from the Sun, dark, cold and swept by the fastest winds in the Solar System. It was found in 1846 by mathematics before anyone saw it. Its largest moon, Triton, orbits backwards and is slowly spiralling inwards."
+    }
+  ]
+}
